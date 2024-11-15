@@ -3,7 +3,6 @@
 #Link
 https://guararai.github.io/autos/public/home.html
 
-
 # Observação
 
 Algumas funções podem não funcionar como esperado, pois o site ainda está em desenvolvimento. 
